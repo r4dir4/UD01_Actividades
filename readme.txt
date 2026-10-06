@@ -1,1 +1,1 @@
-Cambio realizado desde main
+Cambio realizado desde archivo_conflictos
